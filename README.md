@@ -36,6 +36,8 @@ The goal of this project is to demonstrate how Python can support SOC-style thre
 	•	Dictionaries and loops
 	•	Conditional logic
 	•	Automated reporting
+	-   pandas
+	-   DataFrame analysis
 ____
 
 ## Project Structure
@@ -74,6 +76,10 @@ IP addresses associated with high-risk login activity are automatically flagged.
 ### Automated Alert Reporting
 
 The script generates a security alert report summarizing suspicious activity.
+
+### Behavioural Analysis with pandas
+
+The system uses pandas DataFrames to filter, group, and analyze suspicious authentication behavior at scale
 
 ____
 
