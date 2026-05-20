@@ -97,6 +97,19 @@ WARNING: 203.0.113.5 triggered 2 high-risk events
 
 _____
 
+## Behavioral Risk Scoring
+
+The system analyzes failed authentication activity and assigns behavioral risk levels based on login attempt frequency.
+
+### Risk Classification Logic
+- CRITICAL → 20+ attempts
+- HIGH → 10+ attempts
+- MEDIUM → 5+ attempts
+- LOW → under 5 attempts
+
+### Visualization
+The project includes Python-based visualizations using matplotlib to identify high-risk users and suspicious authentication patterns.
+
 
 ## Skills Demonstrated
 
