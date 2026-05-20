@@ -1,4 +1,8 @@
 # Automated Threat Detection & Security Alert System Using Python
+
+![Threat Dashboard](screenshot.png)
+![Threat Dashboard](screenshot_2.png)
+
 ## Overview
 
 This project simulates a Python-based security monitoring system designed to detect suspicious authentication behavior and generate automated security alerts.
