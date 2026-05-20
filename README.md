@@ -110,6 +110,16 @@ The system analyzes failed authentication activity and assigns behavioral risk l
 ### Visualization
 The project includes Python-based visualizations using matplotlib to identify high-risk users and suspicious authentication patterns.
 
+____
+
+## Login Activity Trend Analysis
+
+The project includes time-based trend analysis to monitor authentication behavior over time.
+
+Using pandas and matplotlib, login activity is grouped by timestamp to identify spikes, bursts of suspicious activity, and behavioral trends.
+
+This introduces a security monitoring perspective by visualizing authentication patterns chronologically.
+
 
 ## Skills Demonstrated
 
